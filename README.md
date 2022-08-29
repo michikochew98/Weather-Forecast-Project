@@ -70,8 +70,6 @@
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-<br/>
-
 ### Built With
 
 <!-- * [![Next][Next.js]][Next-url]
