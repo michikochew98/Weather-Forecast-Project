@@ -1,25 +1,3 @@
-# Weather App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-## References
-
-OpenWeather API: https://openweathermap.org/
-GeoDB Cities API: https://rapidapi.com/wirefreethought/api/geodb-cities/
-React-select-async-paginate Library: https://www.npmjs.com/package/react-select-async-paginate
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
@@ -36,8 +14,8 @@ React-select-async-paginate Library: https://www.npmjs.com/package/react-select-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/michikochew98/FLAC-Financial-Learning-App-For-Children">
-    <img src="Documentation/Screenshot1.jpg" alt="Logo" width="1000" height="500">
+  <a href="https://github.com/michikochew98/Weather-Forecast-Project">
+    <img src="documentation/Screenshot1.jpg" alt="Logo" width="1000" height="500">
   </a>
 
 <h3 align="center">Weather Forecast API Project</h3>
@@ -134,7 +112,8 @@ Preinstall Node.js
   ```sh
   npm install 
   ```
-3. Create account to use Weather API and Geolocation API. Both keys created and keep in created .env files.
+3. Create account in OpenWeather API (https://openweathermap.org/) and GeoDB Cities API (https://rapidapi.com/wirefreethought/api/geodb-cities/). 
+Both keys created and keep in created .env files.
 4. Run npm run start:frontend and npm run start:backend at project level to run project
 
   ```sh
@@ -222,6 +201,7 @@ Mi Chi Ko Chew
 1. Javascript mistake - https://www.youtube.com/watch?v=7oJgdyMS4rQ&ab_channel=JamesQQuick
 2. Safety measure to handle credential data - https://www.youtube.com/watch?v=FcwfjMebjTU&ab_channel=CodewithAniaKub%C3%B3w
 3. Tutorial video - https://www.youtube.com/watch?v=Reny0cTTv24&t=26s&ab_channel=freeCodeCamp.org 
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
