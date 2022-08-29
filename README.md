@@ -86,9 +86,6 @@
 * [![Nodejs][Nodejs.org]][Nodejs-url]
 * [![Expressjs][Expressjs.com]][Expressjs-url] 
 
-<div>
-  <img src="Documentation/FLAC_Arch1.jpg" alt="Logo" width="640" height="360">
-</div>
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
@@ -108,14 +105,12 @@ Preinstall Node.js
    git clone https://github.com/michikochew98/Weather-Forecast-Project.git
    ```
 2. Run npm install for frontend folder
-
   ```sh
   npm install 
   ```
 3. Create account in OpenWeather API (https://openweathermap.org/) and GeoDB Cities API (https://rapidapi.com/wirefreethought/api/geodb-cities/). 
 Both keys created and keep in created .env files.
 4. Run npm run start:frontend and npm run start:backend at project level to run project
-
   ```sh
   npm run start:frontend
   npm run start:backend
